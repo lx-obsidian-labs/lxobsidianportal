@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "middelburg-mining-institute",
+  "name": "lxobsidianportal",
   "builds": [
     {
       "src": "**/*.html",
